@@ -1,0 +1,11 @@
+﻿## Interface: 11200
+## Title: LazyTank
+## Title-zhCN: 一键坦克&反恐 Q猫汉化
+## Notes-zhCN: 一键坦克&反恐 Q猫汉化 建议绑定快捷键
+## Notes: 一键坦克&反恐 Q猫汉化 建议绑定快捷键 用法:输入 /lzt help
+## Author-zhCN: Q猫汉化
+## Dependencies:
+## SavedVariablesPerCharacter: LZT_OPTIONS
+LazyTank.lua
+LazyTank.xml
+
